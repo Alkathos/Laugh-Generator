@@ -21,26 +21,26 @@ The Laugh Generator also includes a list of filters and categories that allow yo
 ## FILTERS:
 
 
-This list of options is where you can choose to ![NOT] view jokes that may offend you.
-This is a blacklist, so checking the boxes will ![PREVENT] you from seeing jokes in the following categories:
-NSFW: Jokes that are not safe for work. Check this box if you are in a family-safe environment and do ![NOT] want to see this content.
-Religious: Jokes that contain potentially offensive religious content. Check this box if you do ![NOT] want to see religious jokes.
-Political: Jokes about recent political topics and figures. Check this box if you do ![NOT] want to see any jokes about poltics.
-Racist: Offensive jokes about race. Check this box if you do ![NOT] want to see racist jokes.
-Sexist: Offensive jokes about gender differences. Check this box if you do ![NOT] want to see jokes involving sexism
-Explicit: Jokes with explicit content, including but not limited to sexual humor. Check this box if you do ![NOT] want to see these kinds of jokes.
+This list of options is where you can choose to **NOT** view jokes that may offend you.
+This is a blacklist, so checking the boxes will **PREVENT** you from seeing jokes in the following categories:
+NSFW: Jokes that are not safe for work. Check this box if you are in a family-safe environment and do **NOT** want to see this content.
+Religious: Jokes that contain potentially offensive religious content. Check this box if you do **NOT** want to see religious jokes.
+Political: Jokes about recent political topics and figures. Check this box if you do **NOT** want to see any jokes about poltics.
+Racist: Offensive jokes about race. Check this box if you do **NOT** want to see racist jokes.
+Sexist: Offensive jokes about gender differences. Check this box if you do **NOT** want to see jokes involving sexism
+Explicit: Jokes with explicit content, including but not limited to sexual humor. Check this box if you do **NOT** want to see these kinds of jokes.
 
 
 ## CATEGORIES:
 
-This list of options includes specific themes of jokes. Unlike the Filters list, check these boxes if you want to ![INCLUDE] these themes. If none of the boxes in categories are checked, it will display a joke from any of the categories listed. If only one box is selected, for instance, "Christmas", it will only display Christmas themed jokes. If two or more boxes are selected, it will display jokes taken from one of the categories selected.
+This list of options includes specific themes of jokes. Unlike the Filters list, check these boxes if you want to **INCLUDE** these themes. If none of the boxes in categories are checked, it will display a joke from any of the categories listed. If only one box is selected, for instance, "Christmas", it will only display Christmas themed jokes. If two or more boxes are selected, it will display jokes taken from one of the categories selected.
 
-Programming: Jokes about programming. Check this box if you ![WANT] to see these kinds of jokes.
-Misc: Jokes that don't fall in any category. (For the API to work, this must be choice number 2.) Check this box if you ![WANT] to see jokes that do not fall in the other categories.
-Dark: Morbid jokes usually about death and other dark topics. Check this box if you ![WANT] to see these kinds of jokes.
-Pun: Wordplay. Check this box if you ![WANT] to see puns.
-Spooky: Jokes good for Halloween and other spooky events. Check this box if you ![WANT] to see fun jokes about ghosts, skeletons, and the like.
-Christmas: Jokes good for Christmas. Self-explanatory. Check this box if you ![WANT] to see Christmas themed jokes.
+Programming: Jokes about programming. Check this box if you **WANT** to see these kinds of jokes.
+Misc: Jokes that don't fall in any category. (For the API to work, this must be choice number 2.) Check this box if you **WANT** to see jokes that do not fall in the other categories.
+Dark: Morbid jokes usually about death and other dark topics. Check this box if you **WANT** to see these kinds of jokes.
+Pun: Wordplay. Check this box if you **WANT** to see puns.
+Spooky: Jokes good for Halloween and other spooky events. Check this box if you **WANT** to see fun jokes about ghosts, skeletons, and the like.
+Christmas: Jokes good for Christmas. Self-explanatory. Check this box if you **WANT** to see Christmas themed jokes.
 
 # Memes:
 
@@ -66,7 +66,7 @@ Pressing the Twitter, Reddit, and Facebook buttons shares the jokes and memes to
 
 Made by Team Funny-Jokes
 
-Nelson Rosado
-Joseph Valancy
-Emily Fernandez
-Fernando Zaldivar
+* Nelson Rosado (@NMR-Code)
+* Joseph Valancy (@Jvala2)
+* Emily Fernandez (@emilyfern121)
+* Fernando Zaldivar (@Alkathos)
