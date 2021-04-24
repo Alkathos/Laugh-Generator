@@ -7,16 +7,16 @@ Your most recent joke/meme generated for you is saved to Local Storage, so it wi
 The Laugh Generator also includes a list of filters and categories that allow you to customize your user experience with only the jokes you want to see.
 
 
-* ![The standard Laugh Generator desktop page with a joke](./assets/Laugh.png)
-* ![The standard Laugh Generator desktop page with a meme](./assets/Meme.png)
-* ![The Mobile Version of Laugh Generator with a joke](./assets/Mobile.png)
-* ![The Mobile Version of Laugh Generator with a meme](./assets/Mememobile.png)
+* ![The standard Laugh Generator desktop page with a joke](./assets/img/Laugh.png)
+* ![The standard Laugh Generator desktop page with a meme](./assets/img/Meme.png)
+* ![The Mobile Version of Laugh Generator with a joke](./assets/img/Mobile.png)
+* ![The Mobile Version of Laugh Generator with a meme](./assets/img/Mememobile.png)
 
 
 # How to use the Customization Feature:
 
-* ![The Desktop Page with the Filters and Categories menu open](./assets/Filters.png)
-* ![The Mobile Page with the Filters and Categories menu open](./assets/Filtersmobile.png)
+* ![The Desktop Page with the Filters and Categories menu open](./assets/img/Filters.png)
+* ![The Mobile Page with the Filters and Categories menu open](./assets/img/Filtersmobile.png)
 
 ## FILTERS:
 
