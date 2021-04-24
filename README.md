@@ -53,13 +53,13 @@ Pressing the Twitter, Reddit, and Facebook buttons shares the jokes and memes to
 
 # APIs used:
 
-[JokeAPI](https://sv443.net/jokeapi/v2/)
-[MemeAPI](https://github.com/D3vd/Meme_Api)
+* [JokeAPI](https://sv443.net/jokeapi/v2/)
+* [MemeAPI](https://github.com/D3vd/Meme_Api)
 
 ## APIs we WANTED to use, but they never got back to us:
-[Twitter](https://developer.twitter.com/en/docs/twitter-api)
-[Reddit](https://www.reddit.com/dev/api)
-[Facebook](https://developers.facebook.com/docs/apis-and-sdks)
+* [Twitter](https://developer.twitter.com/en/docs/twitter-api)
+* [Reddit](https://www.reddit.com/dev/api)
+* [Facebook](https://developers.facebook.com/docs/apis-and-sdks)
 
 
 ## Credits:
